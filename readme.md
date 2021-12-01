@@ -6,7 +6,7 @@
 
     1/12/2021 **Day 1!** Find this log at [my blog](https://yasledesma.hashnode.dev/day-130-javascript-drum-kit-javascript30).
 
-2. [ ] ~~[JS + CSS Clock](./02%20-%20JS%20%2B%20CSS%20Clock)
+2. [ ] [JS + CSS Clock](./02%20-%20JS%20%2B%20CSS%20Clock)
 3. [ ] [CSS Variables](./03%20-%20CSS%20Variables)
 4. [ ] [Array Cardio, Day 1](./04%20-%20Array%20Cardio%20Day%201)
 5. [ ] [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery)
