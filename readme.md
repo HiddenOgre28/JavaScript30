@@ -14,7 +14,10 @@
 
     3/12/2021 **Day 3!** Find this log at [my blog](https://yasledesma.hashnode.dev/day-330-css-variables-with-js-javascript30).
 
-4. [ ] [Array Cardio, Day 1](./04%20-%20Array%20Cardio%20Day%201)
+4. [x] ~~[Array Cardio, Day 1](./04%20-%20Array%20Cardio%20Day%201)~~
+
+    4/12/2021 **Day 4!** No article for this one.
+    
 5. [ ] [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery)
 6. [ ] [Type Ahead](./06%20-%20Type%20Ahead)
 7. [ ] [Array Cardio, Day 2](./07%20-%20Array%20Cardio%20Day%202)
