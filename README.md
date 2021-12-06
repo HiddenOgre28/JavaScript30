@@ -18,7 +18,10 @@
 
     4/12/2021 **Day 4!** No article for this one.
     
-5. [ ] [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery)
+5. [x] [Flex Panel Gallery](./05%20-%20Flex%20Panel%20Gallery)
+
+    5/12/2021 **Day 5!** No article for this one.
+
 6. [ ] [Type Ahead](./06%20-%20Type%20Ahead)
 7. [ ] [Array Cardio, Day 2](./07%20-%20Array%20Cardio%20Day%202)
 8. [ ] [Fun with HTML5 Canvas](./08%20-%20Fun%20with%20HTML5%20Canvas)
